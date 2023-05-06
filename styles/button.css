@@ -8,6 +8,14 @@
     
     background: #917FB3;
 
+    font-family: 'Coiny';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
 
 }
 
@@ -22,7 +30,13 @@
 
 .menu_button {
 
-
+    width: 243px;
+    height: 222px;
+    left: 407px;
+    top: 274px;
+    
+    background: #E5BEEC;
+    border-radius: 60px;
 
 
 
