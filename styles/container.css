@@ -1,0 +1,74 @@
+.login_container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 15%;
+    width: 418px;
+    height: 505px;
+    left: 50px;
+    top: 224px;
+    
+    background: #E5BEEC;
+    border-radius: 60px;
+
+
+}
+
+.chat_container {
+
+
+
+
+}
+
+
+.resources_container {
+
+
+
+
+}
+
+.message_container {
+
+
+
+
+}
+
+.loginlogo_container {
+
+    display: flex;
+    align-items: center;
+    width: 546px;
+    height: 461px;
+    left: 768px;
+    top: 274px;
+    
+    background: #E5BEEC;
+    border-radius: 60px;
+
+}
+
+.avatarcontainer {
+
+
+
+
+}
+
+.booking_container {
+
+
+
+
+}
+
+
+.studentprogress_container {
+
+
+
+}
