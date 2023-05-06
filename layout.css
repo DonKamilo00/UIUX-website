@@ -10,11 +10,20 @@
 
     margin-left: 20%;
 
+    .flex-body1{
 
+        display: flex;
+        align-items: center;
+        flex: 1;
+        justify-content: space-evenly
+
+
+
+    }
 
   }
   .header-container > div {
-    margin-left: ;
+    margin-left:;
     color: white;
     font-family: 'Coiny';
     font-style: normal;

@@ -19,10 +19,40 @@
 
 }
 
+.link_button {
 
+
+    cursor: pointer;
+    width: 383px;
+    height: 72px;
+    left: 131px;
+    top: 307px;
+    
+    background: #917FB3;
+
+    font-family: 'Coiny';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+
+
+
+}
 .button {
 
-
+    width: 150px;
+    height: 60px;
+    left: 878px;
+    top: 857px;
+    margin: %;
+    background: #917FB3;
+    border-radius: 60px;
 
 
 
@@ -37,6 +67,11 @@
     
     background: #E5BEEC;
     border-radius: 60px;
+
+    font-family: 'Coiny';
+    font-style: normal;
+    font-size: 28px;
+
 
 
 
