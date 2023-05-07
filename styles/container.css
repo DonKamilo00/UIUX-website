@@ -26,6 +26,7 @@ border: no;
 }
 
 
+
 .resources_container {
     display: flex;
     flex-direction: column;
@@ -59,7 +60,48 @@ border: no;
 
 
 }
+.gchat_box {
 
+    margin-bottom: 5%;
+    width: 80%;
+    height: 80%;
+    background-color: #E5BEEC;
+    border: no;
+    }
+
+
+    .hcontainer{
+
+        display: flex;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+
+    }
+.gmessage_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 600px;
+    height: 440px;
+    left: 80%;
+    top: 252px;
+    margin-top: 35%;
+    background: #E5BEEC;
+    border-radius: 60px;
+
+
+}
+.flex_calendar{
+
+display: flex;
+flex-direction: column;
+
+
+
+}
 .loginlogo_container {
 
     display: flex;
@@ -90,6 +132,34 @@ border: no;
 
 
 .studentprogress_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+.studentprogress_card{
+    flex-grow:;
+    margin: 2.5%;
+    width: 526px;
+    height: 187px;
+    left: 41px;
+    top: 210px;
+    
+    background: #E5BEEC;
+    border-radius: 60px
+
+
+
+}
+
+
+
+
+.studentprogress_text{
+    margin-left: 8%;
+    text-align: left;
+    font-family: 'Coiny';
+    font-style: normal;
 
 
 
@@ -105,6 +175,14 @@ border: no;
     height: 505px;
     left: 50px;
     top: 224px;
+
+}
+
+.graphimage
+{
+    width: 100%;
+    height: 50%;
+
 
 }
 
@@ -127,6 +205,26 @@ border: no;
     color: #000000;
 }
 
+.Enquiry_button {
+    
+    width: 700px;
+    height: 60px;
+    left: 54px;
+    top: 252px;
+
+    background: #E5BEEC;
+    border-radius: 60px;
+
+    font-family: 'Coiny';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+
+
+    color: #000000;
+}
+
+
 .checkbox-container{
 
 display: flex;
@@ -143,6 +241,8 @@ margin: 15%;
 
 }
 
+
+
 .button-container {
     display: flex;
 column-gap: 20%;
@@ -158,4 +258,50 @@ column-gap: 20%;
 flex-direction: row;
 justify-content: space-evenly;
 align-items: center;
+}
+
+.enquiry_container {
+
+    width: 495px;
+    height: 498px;
+    left: 857px;
+    top: 191px;
+    
+    background: #E5BEEC;
+    border-radius: 60px;
+
+
+
+
+
+}
+
+
+.booking_avatar{
+
+
+
+
+
+
+
+}
+
+
+
+
+.psbooking_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 514px;
+    height: 265px;
+    left: 66px;
+    top: 200px;
+    
+    background: #E5BEEC;
+    border-radius: 60px;
+
+
 }
