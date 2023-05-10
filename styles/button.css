@@ -72,16 +72,22 @@ width: 15%;
 
 }
 .button {
+    font-family: 'Coiny';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 24px;
+    line-height: 26px;
+    
 
-    width: 150px;
-    height: 60px;
+    width: 200px;
+    height: 80px;
     left: 878px;
     top: 857px;
-
-    background: #917FB3;
+    color: white;
+    background: #351C63;
     border-radius: 60px;
 
-
+    border: none;
 
 }
 
